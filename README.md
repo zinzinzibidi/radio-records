@@ -6,7 +6,7 @@ Recorded by [Retekess TR629](https://www.amazon.com/Retekess-Portable-Shortwave-
 
 Download links at the top right of the Google Drive page.
 
- <font size="1"> 
+ <font size="4"> 
   
 Radio Name | Frequency | Band[^1] | Country | Language | Size | Length | Date | Link |
 :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
