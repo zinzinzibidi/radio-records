@@ -15,4 +15,9 @@ Pal Nostalji | 99.2 mHz | FM | Turkey | Turkish | 65.0 MB | 71m02s | 19.05.22 | 
 China Radio International | 7.295 mHz | SW | China | English | 16.7 MB | 18m18s | 19.05.22 | [🠋](https://drive.google.com/file/d/1_CH6wf5en4-3M_-37mNsBXWJ4EeASwoh/view?usp=sharing) |
 SOH Xi Wang Zhi Sheng | 11.775 mHz | SW | China | Chinese | 25.1 MB | 27m27s | 19.05.22 | [🠋](https://drive.google.com/file/d/1PISh6NSh44QnsZFZ_RoyIvzfqXbQKZZ1/view?usp=sharing) |
 
+
+## Useful Links
+
+- [short-wave.info](https://www.short-wave.info/index.php)
+
 [^1]:AM is also a MW band.
