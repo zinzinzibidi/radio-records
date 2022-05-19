@@ -19,7 +19,7 @@ SOH Xi Wang Zhi Sheng | 11.775 mHz | SW | China | Chinese | 25.1 MB | 27m27s | 1
 ## Useful Links
 
 - [Day and Night World Map](https://www.timeanddate.com/worldclock/sunearth.html)
-- [Short Wave Info](https://www.short-wave.info/index.php)
 - [SWS - Ionospheric Map](https://www.sws.bom.gov.au/HF_Systems/6/5)
+- [Short Wave Info](https://www.short-wave.info/index.php)
 
 [^1]:AM is also a MW band.
