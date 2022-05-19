@@ -1,6 +1,6 @@
 # Radio Records (FM/AM/MW/SW)
 
-Recorded by [Retekess TR629](https://www.amazon.com/Retekess-Portable-Shortwave-Backlight-Recorder/dp/B09N8N36BX) SW radio device. (Sound quality 128 kbps 44.10 kHz)
+Recorded by [Retekess TR629](https://www.amazon.com/Retekess-Portable-Shortwave-Backlight-Recorder/dp/B09N8N36BX) SW radio device. (Sound Quality 128 kbps 44.10 kHz)
 
 <br>
 
