@@ -15,7 +15,7 @@ Pal Nostalji | 99.2 mHz | FM | Turkey | Turkish | 65.0 MB | 71m02s | 19.05.22 | 
 China Radio International | 7.295 mHz | SW | China | English | 16.8 MB | 18m18s | 19.05.22 | [🠋](https://drive.google.com/file/d/1_CH6wf5en4-3M_-37mNsBXWJ4EeASwoh/view?usp=sharing) |
 SOH Xi Wang Zhi Sheng | 11.775 mHz | SW | China | Chinese | 25.1 MB | 27m27s | 19.05.22 | [🠋](https://drive.google.com/file/d/1PISh6NSh44QnsZFZ_RoyIvzfqXbQKZZ1/view?usp=sharing) |
 Radyo 45lik | 91.2 mHz | FM | Turkey | Turkish | 141.6 MB | 154m40s | 20.05.22 | [🠋](https://drive.google.com/file/d/1k-y0TbZBTRxcScbKC2_NK3c6NNyv8XE0/view?usp=sharing) 
-BNR Horizont | 576 kHz | AM | Bulgaria | Bulgarian | xx MB | xxmxxs | 21.05.22 | [🠋]() |
+BNR Horizont | 576 kHz | AM | Bulgaria | Bulgarian | 19.5 MB | 21m18s | 21.05.22 | [🠋](https://drive.google.com/file/d/164EOeQNaWSv7lkzBff0G0Do1iBwBpiQH/view?usp=sharing) |
 
 ## Useful Links
 
