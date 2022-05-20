@@ -22,5 +22,6 @@ Radyo 45lik | 91.2 mHz | FM | Turkey | Turkish | 141.6 MB | 154m40s | 20.05.22 |
 - [Day and Night World Map](https://www.timeanddate.com/worldclock/sunearth.html)
 - [SWS - Ionospheric Map](https://www.sws.bom.gov.au/HF_Systems/6/5)
 - [Short Wave Info](https://www.short-wave.info/index.php)
+- [MWList Europe, Africa and Middle East](https://www.mwlist.org/mwlist_quick_and_easy.php)
 
 [^1]:AM is also a MW band.
