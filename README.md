@@ -17,6 +17,7 @@ SOH Xi Wang Zhi Sheng | 11.775 mHz | SW | China | Chinese | 25.1 MB | 27m27s | 1
 Radyo 45lik | 91.2 mHz | FM | Turkey | Turkish | 141.6 MB | 154m40s | 20.05.22 | [🠋](https://drive.google.com/file/d/1k-y0TbZBTRxcScbKC2_NK3c6NNyv8XE0/view?usp=sharing) 
 BNR Horizont | 576 kHz | AM | Bulgaria | Bulgarian | 19.5 MB | 21m18s | 21.05.22 | [🠋](https://drive.google.com/file/d/164EOeQNaWSv7lkzBff0G0Do1iBwBpiQH/view?usp=sharing) |
 Radio Rossii | 999 kHz | AM | Russia | Russian | 150.5 MB | 164m22s | 29.05.22 | [🠋](https://drive.google.com/file/d/1zCGCUuh4iwiEfWGzMpBbRl2NlVIUAK8v/view?usp=sharing) |
+Afghanistan International  | 7.6 mHz | SW | Afghanistan | Pashto | 26.* MB | 164m22s | 30.05.22 | [🠋](https://drive.google.com/file/d/1CTVdxX2pGHL3zhDHbmLHrNCKwh0uRlA_/view?usp=sharing) |
 
 ## Useful Links
 
